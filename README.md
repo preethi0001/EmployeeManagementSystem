@@ -22,4 +22,6 @@ This is a simple Employee Management System console application written in Java.
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
+- MySql
+- IntelliJ or any other IDE
 
