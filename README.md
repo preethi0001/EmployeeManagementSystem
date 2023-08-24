@@ -4,7 +4,7 @@ This is a simple Employee Management System console application written in Java.
 
 ## Features
 
-- Add new employees with their names.
+- Add new employees details.
 - View details of a specific employee using their ID.
 - Update an employee's details.
 - Delete an employee's record.
